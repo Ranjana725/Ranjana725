@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a 3rd Year Engineering Student passionate about problem-solving, coding, and continuous learning.
 
 🚀 About Me
+
 I'm currently focused on Java and Data Structures & Algorithms, while also exploring development and building projects along the way.
 
 ☕ Currently learning: Java & Data Structures and Algorithms (DSA)

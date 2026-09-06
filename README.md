@@ -1,22 +1,20 @@
+👋 Hi there, I'm Ranjana Kumari
 
-# Hi there, I'm Ranjana Kumari.👋
+Welcome to my GitHub profile! I'm a 3rd Year Engineering Student passionate about problem-solving, coding, and continuous learning.
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning.
-
-## 🚀 About Me
-I'm a developer who loves to build web applications and work with new technologies. I'm currently diving deep into web development and improving my skills with every project.
-
-- 🌱 Currently learning: **Web Development** (HTML, CSS, JavaScript, or more!)
-- 🔭 I’m currently working on: 
-- 🌟 I’m looking to collaborate on: **Open-source web development projects, front-end**
-- 📫 How to reach me: ranjanabhadouriya252006@gmail.com
-
-## 🛠️ Technologies & Tools
-
-Here are some of the technologies I’m currently learning and working with:
-
-- **Languages:** HTML, CSS,C
-- **Tools:** Git, VS Code.
+🚀 About Me
+I'm currently focused on Java and Data Structures & Algorithms, while also exploring development and building projects along the way.
+☕ Currently learning: Java & Data Structures and Algorithms (DSA)
+🧩 Practicing: Problem-solving, algorithms & coding challenges
+🌱 Exploring: Web Development
+🔨 Working on: DSA practice and small development projects
+🤝 Looking to collaborate on: Beginner-friendly coding and open-source projects
+ 📫 How to reach me: ranjanabhadouriya252006@gmail.com
+ 
+🛠️ Technologies & Tools
+Language: Java, C, HTML, CSS
+Core Focus: DSA & Problem Solving
+Tools: Git, GitHub, VS Code.
 
 ## 📈 GitHub Stats
 
